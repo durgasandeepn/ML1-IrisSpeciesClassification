@@ -7,4 +7,4 @@
 * Implemented Gaussian Naive Bayes and evaluated both models on test accuracy, with misclassification analysis
 
 
-[View the Project Documentation](Assignment1_Sandeep.pdf)
+[View the Project in Document format](Assignment1_Sandeep.pdf)
