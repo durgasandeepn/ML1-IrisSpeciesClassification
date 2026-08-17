@@ -1,4 +1,4 @@
-**## Iris Flower Classification**
+** Iris Flower Classification **
 
 * Performed EDA on the Iris dataset: missing value imputation (mean/median), duplicate detection, outlier analysis via boxplots, scater plot matrices, and correlation heatmaps.
 * Split data 80/20 with stratification and fixed random seed
